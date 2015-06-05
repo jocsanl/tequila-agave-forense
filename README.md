@@ -4,6 +4,9 @@ Agave Forense es la interfaz gráfica de Windows que permite llevar a cabo proce
 
 Para comenzar a trabajar en análisis forense en sistemas Windows, se deben llevar a cabo los siguientes pasos:
 1. Descargar el archivo .rar de la versión de Agave que requieren.
+
+ 
+
 64 bits https://archive.org/details/Agave64
 32 bits https://archive.org/details/Agave32
 
